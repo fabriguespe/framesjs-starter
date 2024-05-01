@@ -1,6 +1,4 @@
-# Frames.js ⨵MTP starter
-
-> 💬 **Try it:** Message `trendingmints.eth`
+# Frames.js XMTP starter
 
 ## Usage
 
@@ -21,8 +19,8 @@ where:
 To kickstart the tutorial, you'll need to clone the repository containing the bot code. Follow these steps:
 
 ```bash
-git clone https://github.com/fabriguespe/mint-frame.git
-cd mint-frame
+git clone https://github.com/fabriguespe/framesjs-starter.git
+cd framesjs-starter
 # copy env variables template
 cp .env.example .env
 ```
@@ -31,20 +29,12 @@ cp .env.example .env
 
 ```bash
 BASE_URL= # frame url
-REDIS_CONNECTION_STRING= # redis connection string
 ```
-
-> ⚠️ Bot kit is not compatible with `bun` yet. Use `npm` or `yarn`
 
 ```bash
 # install dependencies
 yarn install
 
-# running the bot
-yarn build
-yarn start
-
-# to run with hot-reload
-yarn build:watch
-yarn start:watch
+# running the frame
+yarn dev
 ```
