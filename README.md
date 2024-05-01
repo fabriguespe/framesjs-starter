@@ -1,4 +1,4 @@
-# Mint Frame 🌳
+# Frames.js XMTP starter ⓧ
 
 > 💬 **Try it:** Message `trendingmints.eth`
 
