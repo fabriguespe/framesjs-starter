@@ -5,14 +5,8 @@
 Once the app is running, you can construct an URL with the following format:
 
 ```
-http://localhost:3001/?chain={CHAIN}&a={ADDRESS}&c={COUNT}
+http://localhost:3001/
 ```
-
-where:
-
-- `{CHAIN}` is the blockchain network, in this case only `base` is supported;
-- `{ADDRESS}` is the address of the NFT
-- `{COUNT}` is the number of trending mints that you want to display.
 
 ## Development
 
