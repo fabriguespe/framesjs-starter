@@ -1,4 +1,4 @@
-# Frames.js XMTP starter ⓧ
+# Frames.js ⨵MTP starter
 
 > 💬 **Try it:** Message `trendingmints.eth`
 
